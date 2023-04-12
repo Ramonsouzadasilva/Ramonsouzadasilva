@@ -1,4 +1,4 @@
-### Me chamo Ramon Souza e a seguir está um pouco das Tecnologias que tenho conhecimento.
+### Me chamo Ramon, e a seguir está algumas das Tecnologias que tenho conhecimento.
 - Atualmente estudando mais sobre:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
