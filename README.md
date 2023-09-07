@@ -1,7 +1,6 @@
-### Me chamo Ramon, e a seguir está algumas das Tecnologias que tenho conhecimento.
+### Me chamo Ramon, e a seguir estão algumas das Tecnologias que tenho conhecimento.
 - Atualmente estudando mais sobre:
 <div>
-
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
