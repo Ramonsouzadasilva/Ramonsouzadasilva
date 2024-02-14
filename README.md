@@ -1,4 +1,4 @@
-### No momento, estou me dedicando a aprender mais sobre:
+### No momento, estou estudando mais sobre:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
