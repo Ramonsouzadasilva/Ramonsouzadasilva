@@ -6,7 +6,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 
-### Tenho conhecimento em sistemas de gerenciamento de bancos de dados, incluindo:
+### Alguns dos banco de dados que tenho familiaridade de uso, como:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
