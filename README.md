@@ -1,6 +1,5 @@
-# Tecnologias que tenho conhecimento:
 
-### No momento, estou estudando mais sobre:
+### No momento, estudando mais sobre:
 <div>
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -8,7 +7,7 @@
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 
-### Alguns dos banco de dados que tenho familiaridade de uso:
+### Bancos de dados que tenho mais familiaridade de uso:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
