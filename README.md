@@ -1,5 +1,5 @@
 
-### No momento, estudando mais sobre:
+## No momento, estudando mais sobre:
 <div>
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
