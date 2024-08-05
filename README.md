@@ -1,7 +1,6 @@
 
-## No momento, estudando mais sobre:
+## Tecnologias que estou estudando:
 <div>
-  
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />          
 <img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -30,6 +29,7 @@
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 </div>
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramonsouzadasilva&theme=tokyonight)](https://github.com/Ramonsouzadasilva/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonsouzadasilva&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
