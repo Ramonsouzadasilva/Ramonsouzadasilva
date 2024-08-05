@@ -23,7 +23,7 @@
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-### E, no desenvolvimento Front-end, tenho conhecimento sobre:
+### E, no desenvolvimento Front-end:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
