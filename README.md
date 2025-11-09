@@ -23,6 +23,10 @@
                     
 </div>
 
+### Cloud:
+<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
+
 ### ORM:
 <div>
 <img widht="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
