@@ -1,4 +1,3 @@
-
 ## Tecnologias mais usadas no momento:
 <div>
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
