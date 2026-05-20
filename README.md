@@ -23,14 +23,16 @@
 
 # Sobre 
 
-Desenvolvedor Full Stack com experiência na construção de APIS, sistemas web modernos e escaláveis.
+Desenvolvedor Full Stack com experiência no desenvolvimento de APIs, microsserviços e aplicações web modernas e escaláveis.
 
 Tenho foco em:
 - Desenvolvimento Full Stack
 - Arquitetura de Software
-- APIs
+- APIs e Microsserviços
 - Cloud e DevOps
 - Aplicações web modernas
+- Estudos em System Design
+Possuo experiência na construção de sistemas completos, integração entre serviços, microsserviços, mensageria, cache, autenticação, monitoramento e estratégias de escalabilidade, utilizando tecnologias como Node.js, Java/Spring Boot, Docker, bancos de dados relacionais(Postgres, MySQL) e não relacionais(Mongo, Redis) e serviços como RabbitMQ, Kafka.
 
 ---
 
