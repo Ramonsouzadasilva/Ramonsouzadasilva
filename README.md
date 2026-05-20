@@ -1,114 +1,184 @@
-##  mais usadas no momento:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-</div>
-          
-<!--
-<img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img widht="80" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" />  
-</div> -->
+<div align="center">
 
-### APIs & Backend:
-<div>
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" />                    
+# Ramon Souza
+
+### Desenvolvedor Full Stack • Engenheiro de Software
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Java+%7C+Node.js+%7C+Go;Cloud+%7C+DevOps+%7C+Sistemas+Distribu%C3%ADdos"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Ramonsouzadasilva">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 </div>
 
-### Database e Cloud:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />         
+---
+
+# Sobre 
+
+Desenvolvedor Full Stack com experiência na construção de APIS, sistemas web modernos e escaláveis.
+
+Tenho foco em:
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- APIs
+- Cloud e DevOps
+- Aplicações web modernas
+
+---
+
+# ⚡ Tecnologias principais
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,ts,nodejs,go,docker,spring,nestjs,postgres,mongodb,kafka,rabbitmq,aws,kubernetes,terraform,react,nextjs,tailwind&perline=8" />
+
 </div>
 
-### ORM:
-<div>
-<img widht="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img  widht="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
- <img width="50" height="50"
-    src="https://cdn.simpleicons.org/drizzle/C5F74F" />
+---
+
+# 🛠 Arquitetura & Desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,react,nextjs&perline=6" />
+
+<br/>
+
+<img width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" />
+
 </div>
 
-### Mensageria:
-<div>
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+### Experiência com:
+- Desenvolvimento Full Stack
+- APIs escaláveis
+- Frontend moderno
+- Sistemas distribuídos
+- Arquitetura de software
+- Aplicações cloud-native
+
+---
+
+# 🗄️ Banco de dados, ORM & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,graphql,aws&perline=8" />
+
+<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
+<img width="60" src="https://cdn.simpleicons.org/drizzle/C5F74F" />
+
 </div>
 
-### Infra e Devops:
-<div>
-<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
+---
+
+# 📡 Mensageria e eventos
+
+<div align="center">
+
+<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+
+<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+
 </div>
 
-### Observabilidade
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
+---
+
+# ☁️ DevOps & Observabilidade
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,grafana,prometheus&perline=8" />
+
 </div>
 
-### Documentação
-<div>
-<img  widht="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />     
+### Experiência com:
+- Containers e Docker
+- Orquestração com Kubernetes
+- Infraestrutura como código
+- Monitoramento de aplicações
+- Observabilidade de sistemas
+
+---
+
+# 🧪 Testes & Documentação
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=jest&perline=8" />
+
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+
 </div>
 
-### Testes:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+### Experiência com:
+- Testes unitários
+- Testes de integração
+- Testes end-to-end (E2E)
+- Documentação de APIs
+- Automação de testes
+
+---
+
+# 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" />
+
 </div>
 
+### Experiência com:
+- Ecossistema React
+- Aplicações SSR
+- Interfaces modernas
+- Desenvolvimento responsivo
+- Experiência de usuário (UX)
+- Acessibilidade
+- Sistemas Responsivos
 
-### Frontend:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img widht="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />    
-</div> 
+---
 
-### Versionamento e Repositórios:
-<div>
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />         
+# 🔧 Ferramentas & Versionamento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,npm,pnpm,gradle&perline=8" />
+
 </div>
 
-### Linguagens utilizadas em estudos pessoais e na faculdade:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
+---
+
+# 📚 Linguagens (estudos e projetos pessoais)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs&perline=8" />
+
 </div>
 
-### Gerenciadores:
-<div>
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
-</div>          
+---
 
+# 🌎 Contato
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramonsouzadasilva&theme=tokyonight)](https://github.com/Ramonsouzadasilva/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonsouzadasilva&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+<div align="center">
+
+<a href="https://github.com/Ramonsouzadasilva">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/ramon-souza-da-silva/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
