@@ -178,7 +178,6 @@ Possuo experiência na construção de sistemas completos, integração entre se
 <a href="https://github.com/Ramonsouzadasilva">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 <a href="https://www.linkedin.com/in/ramon-souza-da-silva/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
