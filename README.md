@@ -5,7 +5,7 @@
 ### Desenvolvedor Full Stack • Engenheiro de Software
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Java+%7C+Node.js+%7C+Go;Cloud+%7C+DevOps"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Java+%7C+Node.js+%7C+Go;Cloud+%7C+DevOps"
   alt="Typing SVG"
 />
 
