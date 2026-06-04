@@ -1,7 +1,6 @@
 <div align="center">
 
 # Ramon Souza
-
 ### Desenvolvedor Full Stack • Engenheiro de Software
 
 <img
