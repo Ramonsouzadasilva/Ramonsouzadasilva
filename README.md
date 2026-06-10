@@ -9,9 +9,11 @@
 />
 <br/>
 <p align="center">
+  
   <a href="https://github.com/Ramonsouzadasilva">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  
 </p>
 
 </div>
@@ -96,9 +98,7 @@ Possuo experiência na construção de sistemas completos, integração entre se
 # ☁️ DevOps & Observabilidade
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,grafana,prometheus&perline=8" />
-
 </div>
 
 ### Experiência com
