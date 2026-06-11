@@ -164,11 +164,8 @@ Possuo experiência na construção de sistemas completos, integração entre se
 # 📚 Linguagens
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs&perline=8" />
-
 </div>
-
 ---
 # 🌎 Contato
 
