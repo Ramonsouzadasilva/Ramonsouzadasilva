@@ -18,7 +18,6 @@
 
 </div>
 
-
 ---
 
 # Sobre
@@ -178,5 +177,6 @@ Possuo experiência na construção de sistemas completos, integração entre se
 <a href="https://www.linkedin.com/in/ramon-souza-da-silva/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 
 </div>
