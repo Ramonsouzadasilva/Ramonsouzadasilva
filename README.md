@@ -40,9 +40,7 @@ Possuo experiência na construção de sistemas completos, integração entre se
 # ⚡ Tecnologias Principais
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,ts,nodejs,go,docker,spring,nestjs,postgres,mongodb,kafka,rabbitmq,aws,kubernetes,terraform,react,nextjs,tailwind&perline=8" />
-
 </div>
 
 ---
@@ -69,7 +67,6 @@ Possuo experiência na construção de sistemas completos, integração entre se
 # 🗄️ Banco de Dados, ORM & Cloud
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,graphql,aws&perline=8" />
 
 <br><br>
