@@ -110,10 +110,7 @@ Possuo experiência na construção de sistemas completos, integração entre se
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=jest,vitest,playwright&perline=3" />
-
-<br><br>
-
+<img src="https://skillicons.dev/icons?i=jest,vitest&perline=3" />
 <img alt="Swagger" height="55" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 </div>
